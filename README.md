@@ -3,6 +3,7 @@
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
 Raycast Rendering Tests using LibGDX
+A Spiritual Successor to my [JavaFX-Raycast](https://github.com/CaptainSly/JavaFX-Raycast) project
 
 ## Pictures
 
